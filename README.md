@@ -7,6 +7,7 @@
 - Jesus Bruno Chancayauri Soncco
 - Christian Pardavé Espinoza
 - Saul Arturo Condori Machaca
+- 
 Trabajo asignado:
 Sistema de Autenticación y Seguridad
 
