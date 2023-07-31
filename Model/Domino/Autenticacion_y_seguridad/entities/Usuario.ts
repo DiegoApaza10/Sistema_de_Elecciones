@@ -1,3 +1,4 @@
+
 namespace Dominio.AutenticacionYseguridad.entities {
   export class Usuario {
     protected nombre: string;
