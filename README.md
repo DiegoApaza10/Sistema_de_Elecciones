@@ -3,7 +3,7 @@
 ## Integrantes:
 
 - Sergio Sebastian Santos Mena Quispe
-- Diego Francisco Apaza Andaluz
+- Diego Francisco Apaza Andaluz  (Creador de este fork)
 - Jesus Bruno Chancayauri Soncco
 - Christian Pardavé Espinoza
 - Saul Arturo Condori Machaca
